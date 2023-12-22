@@ -3,7 +3,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin-top: 30px;
+  margin-top: 40px;
   gap: 50px;
 }
 .footer-logo {
@@ -13,7 +13,7 @@
 }
 .footer-logo p {
   color: #383838;
-  font-size: 46px;
+  font-size: 40px;
   font-weight: 700;
 }
 .footer-links {
@@ -21,7 +21,7 @@
   list-style: none;
   gap: 50px;
   color: #252525;
-  font-size: 20px;
+  font-size: 16px;
 }
 .footer-links li {
   cursor: pointer;
@@ -44,7 +44,7 @@
   width: 100%;
   margin-bottom: 30px;
   color: #1a1a1a;
-  font-size: 20px;
+  font-size: 16px;
 }
 .footer-copyright hr {
   width: 80%;
