@@ -35,6 +35,9 @@
   margin-top: 30px;
   cursor: pointer;
 }
+.offers-left button:hover {
+  opacity: 0.85;
+}
 .offers-right {
   flex: 1;
   display: flex;

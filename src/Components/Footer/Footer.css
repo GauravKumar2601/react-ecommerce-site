@@ -36,6 +36,10 @@
   background: #fbfbfb;
   border: 1px solid #ebebeb;
 }
+.footer-icons-container:hover {
+  transform: scale(1.05);
+  cursor: pointer;
+}
 .footer-copyright {
   display: flex;
   flex-direction: column;

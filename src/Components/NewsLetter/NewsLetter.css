@@ -48,3 +48,6 @@
   font-size: 16px;
   cursor: pointer;
 }
+.newsletter div button:hover {
+  opacity: 0.85;
+}

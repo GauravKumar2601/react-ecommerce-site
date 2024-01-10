@@ -45,6 +45,9 @@
   font-weight: 500;
   cursor: pointer;
 }
+.hero-latest-btn:hover {
+  opacity: 0.85;
+}
 .hero-right {
   flex: 1;
   display: flex;
